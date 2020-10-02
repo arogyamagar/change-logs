@@ -4,4 +4,8 @@ police radar
 fixed id card
 fixed vehicle sell
 
-fixed stracerace
+fixed street race
+- Put marker in the map.
+- type command /race [money]
+- to join race by other go near the person who made the race with your car and press H.
+- to start the race use command /startrace by a person who made thw race
