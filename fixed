@@ -22,3 +22,7 @@ Added EMS Work menu in Radial Menu.
 
 
 Added Stretchers in EMS Vehicle (Van and Raptor).
+
+
+Fixed Check In Cost
+   - fixed check in cost not deducting while checking in
