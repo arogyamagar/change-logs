@@ -4,4 +4,9 @@ Removed Id card from Shops
 
 Changed Cocaine Plane Mission Location.
 
-Changed EMS Garage Location.
+Changed EMS Garage Location
+
+Reworked Coke Plane Mission.
+ - Now you need the same plane to pick up and drop the delivery.
+ - You cannot either pick up or drop the delivery without the airplane
+ - If you cash the play the mission will be failed.
